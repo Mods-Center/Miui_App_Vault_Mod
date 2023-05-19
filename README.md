@@ -13,7 +13,7 @@ Its installation is via Magisk on MIUI 12-13 based ROMs with Android 10 or highe
 • Working fine in Global/Indo/Eu/Cn Roms
 • If you use in your rom, please don't forget to put a credit for our work.
 
-For issues or questions you can send a message in [Telegram](https://t.me/bootloop_discussion) group.
+For issues or questions you can send a message in [Telegram](https://t.me/amogus_discussion) group.
 
 
 ### Download
@@ -37,6 +37,8 @@ Download from [releases page](https://github.com/Mods-Center/Miui_App_Vault_Mod/
 ![photo_2022-12-16_21-10-49](https://telegra.ph/file/df5aa064e51738ef1ad54.png)
 ![photo_2022-12-16_21-10-45](https://telegra.ph/file/c50d95977b0d2a320ea06.png)
 
-
+| Download Mods | Total |
+| --- | --- |
+| GitHub Releases | ![GitHub all releases](https://img.shields.io/github/downloads/Mods-Center/Miui_App_Vault_Mod/total?logo=GitHub&style=for-the-badge&color=blue) |
 
 
