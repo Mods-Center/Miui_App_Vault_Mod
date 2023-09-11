@@ -6,12 +6,14 @@ MIUI APP VAULT App modified by [Kashi](https://t.me/kakashi1v1) with many featur
 Its installation is via Magisk on MIUI 12-13 based ROMs with Android 10 or higher.
 
 **Changelog:**
-• Unlocked paid widgets + new animation
-• Unlocked + icon for low end in -1 screen
+• Unlocked widgets + new animation
+• Added server switch for getting English widgets
+• Unlocked "+" icon to add widgets for low end devices in -1 screen
 • New scroll animation unlocked for low end devices
-• Theme app version 3.9.7.0 or above required to work online paid widgets
-• Working fine in Global/Indo/Eu/Cn Roms
-• If you use in your rom, please don't forget to put a credit for our work.
+• Fixed widgets not downloading in -1 screen 
+• Working for Cn,Gl,Eu roms.
+• If you use in your rom, please don't forget to put a credit for our work
+• Thanks Xiaomi Eu for base app
 
 For issues or questions you can send a message in [Telegram](https://t.me/amogus_discussion) group.
 
