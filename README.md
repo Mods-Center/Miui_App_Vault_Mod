@@ -1,46 +1,59 @@
-# Modded MIUI APP VAULT
- 
-![Picsart_22-12-14_07-47-34-971](https://telegra.ph/file/b4b1b1a3ac75dc499543f.png)
+<div align="center">
 
-MIUI APP VAULT App modified by [Kashi](https://t.me/kakashi1v1) with many features unlocked.
-Its installation is via Magisk on MIUI 12-13 based ROMs with Android 10 or higher.
+<img src="https://telegra.ph/file/b4b1b1a3ac75dc499543f.png" alt="MIUI App Vault Mod" width="100%"/>
 
-**Changelog:**
-• Unlocked widgets + new animation
-• Added server switch for getting English widgets
-• Unlocked "+" icon to add widgets for low end devices in -1 screen
-• New scroll animation unlocked for low end devices
-• Fixed widgets not downloading in -1 screen 
-• Working for Cn,Gl,Eu roms.
-• If you use in your rom, please don't forget to put a credit for our work
-• Thanks Xiaomi Eu for base app
+# MIUI App Vault Mod
 
-For issues or questions you can send a message in [Telegram](https://t.me/amogus_discussion) group.
+**The MIUI App Vault with widgets unlocked on every device.**
 
+[![Release](https://img.shields.io/github/v/release/Mods-Center/Miui_App_Vault_Mod?style=for-the-badge&label=release&color=0a84ff)](https://github.com/Mods-Center/Miui_App_Vault_Mod/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Mods-Center/Miui_App_Vault_Mod/total?style=for-the-badge&color=30d158)](https://github.com/Mods-Center/Miui_App_Vault_Mod/releases)
+[![Stars](https://img.shields.io/github/stars/Mods-Center/Miui_App_Vault_Mod?style=for-the-badge&color=ffd60a)](https://github.com/Mods-Center/Miui_App_Vault_Mod/stargazers)
 
-### Download
+</div>
 
-Download from [releases page](https://github.com/Mods-Center/Miui_App_Vault_Mod/releases)
+> [!WARNING]
+> **Legacy MIUI project. No longer updated.** It's kept for MIUI 12–13 users. HyperOS users: see [HyperOS App Vault Mod](https://github.com/Mods-Center/HyperOS-App-Vault).
 
+## ✨ Features
+- Widgets unlocked, with a new animation
+- Server switch for English widgets
+- "+" button to add widgets on low-end devices
+- New scroll animation on low-end devices
+- Fixes widgets not downloading
+- Works on CN, Global and EU ROMs
 
-**Instructions**
-• Download and flash the zip in magisk
-• Reboot the device
-• Uninstall updates of app vault
-• Now Enjoy
-• Don't be a clown and read things properly.This is just an app vault mod,you'll have to install latest china launcher and theme app to make it work properly
+## 📋 Requirements
+- MIUI 12–13, Android 10 or newer
+- Magisk
+- Latest CN launcher and Themes app
 
+## 📥 Installation
+1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/Miui_App_Vault_Mod/releases/latest).
+2. Flash it in Magisk.
+3. Uninstall App Vault updates after rebooting.
+4. Reboot your device.
 
-### Screenshots
-![photo_2022-12-16_21-10-41](https://telegra.ph/file/df5aa064e51738ef1ad54.png)
-![photo_2022-12-16_21-10-37](https://telegra.ph/file/f939476429c89df9cc4a0.png)
-![photo_2022-12-16_21-10-31](https://telegra.ph/file/bac058a21ab8d396149e8.png)
-![photo_2022-12-16_21-10-53](https://telegra.ph/file/f939476429c89df9cc4a0.png)
-![photo_2022-12-16_21-10-49](https://telegra.ph/file/df5aa064e51738ef1ad54.png)
-![photo_2022-12-16_21-10-45](https://telegra.ph/file/c50d95977b0d2a320ea06.png)
+## ⚠️ Notes
+- If you use this in your ROM, please credit Mods Center. Not for paid ROMs.
 
-| Download Mods | Total |
-| --- | --- |
-| GitHub Releases | ![GitHub all releases](https://img.shields.io/github/downloads/Mods-Center/Miui_App_Vault_Mod/total?logo=GitHub&style=for-the-badge&color=blue) |
+## 📸 Screenshots
+<p align="center">
+  <img src="https://telegra.ph/file/df5aa064e51738ef1ad54.png" width="23%" alt="MIUI App Vault"/>
+  <img src="https://telegra.ph/file/f939476429c89df9cc4a0.png" width="23%" alt="MIUI App Vault"/>
+  <img src="https://telegra.ph/file/bac058a21ab8d396149e8.png" width="23%" alt="MIUI App Vault"/>
+  <img src="https://telegra.ph/file/f939476429c89df9cc4a0.png" width="23%" alt="MIUI App Vault"/>
+  <br/>
+  <img src="https://telegra.ph/file/df5aa064e51738ef1ad54.png" width="23%" alt="MIUI App Vault"/>
+  <img src="https://telegra.ph/file/c50d95977b0d2a320ea06.png" width="23%" alt="MIUI App Vault"/>
+</p>
 
+---
 
+<div align="center">
+
+Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+
+[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/Miui_App_Vault_Mod/issues)
+
+</div>
