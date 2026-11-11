@@ -15,7 +15,7 @@
 > [!WARNING]
 > **Legacy MIUI project. No longer updated.** It's kept for MIUI 12–13 users. HyperOS users: see [HyperOS App Vault Mod](https://github.com/Mods-Center/HyperOS-App-Vault).
 
-## ✨ Features
+## Features
 - Widgets unlocked, with a new animation
 - Server switch for English widgets
 - "+" button to add widgets on low-end devices
@@ -23,21 +23,21 @@
 - Fixes widgets not downloading
 - Works on CN, Global and EU ROMs
 
-## 📋 Requirements
+## Requirements
 - MIUI 12–13, Android 10 or newer
 - Magisk
 - Latest CN launcher and Themes app
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/Miui_App_Vault_Mod/releases/latest).
 2. Flash it in Magisk.
 3. Uninstall App Vault updates after rebooting.
 4. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - If you use this in your ROM, please credit Mods Center. Not for paid ROMs.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://telegra.ph/file/df5aa064e51738ef1ad54.png" width="23%" alt="MIUI App Vault"/>
   <img src="https://telegra.ph/file/f939476429c89df9cc4a0.png" width="23%" alt="MIUI App Vault"/>
@@ -52,8 +52,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/Miui_App_Vault_Mod/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/Miui_App_Vault_Mod/issues)
 
 </div>
